@@ -39,3 +39,19 @@
 
 # debug information files
 *.dwo
+
+# Qt Creator
+.qtcreator/
+*.pro.user
+*.pro.user.*
+
+# Build directories
+build/
+debug/
+release/
+
+# Qt Creator IDE
+.idea/
+*.swp
+*.swo
+*~
