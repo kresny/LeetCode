@@ -6,7 +6,7 @@ set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 add_executable(DynamicArray main.cpp
-    dynamicarray.h dynamicarray.cpp)
+    dynamic_array.h dynamic_array.cpp)
 
 #include(GNUInstallDirs)
 #install(TARGETS DynamicArray
